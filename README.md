@@ -7,7 +7,7 @@ This repo contains map reduce implementations for the class of Big Data Algorith
 Print in terminal for each row of data certain attributes (here Height and Year). The dataset is a CSV file and available at http://opendata.paris.fr .
 
 ## Display compact
-In a similar way, displays in terminal information for each row of data (here USAF code, country and elevation). The dataset is a text file available at  https://www1. ncdc.noaa.gov/pub/data/noaa/isd-history.txt .
+In a similar way, displays in terminal information for each row of data (here USAF code, country and elevation). The dataset is a text file available at  https://www.ncdc.noaa.gov/pub/data/noaa/isd-history.txt .
 
 ## TF-IDF
 Create an output file containing the TF-IDF scores of each unique word in a set of input documents. A Term Frequency–Inverse Document Frequency score is a numerical statistic that is intended to reflect how important a word is to a document. This method can used for Frequentist word embedding. The formula is the following: 
